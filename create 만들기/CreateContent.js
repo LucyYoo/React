@@ -28,3 +28,4 @@ class CreateContent extends Component{
   }
 
   export default CreateContent;
+
